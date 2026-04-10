@@ -373,7 +373,7 @@ Working with youth survey data on sensitive topics (suicide, substance use, ment
 
 **Elisa de la Vega Ricardo**
 
-- M.S. Data Science — University of Virginia (Expected August 2025)
+- M.S. Data Science — University of Virginia (Expected May 2026)
 - B.A. Data Analytics — University of Richmond
 - [LinkedIn](https://www.linkedin.com/in/elisa-delavega-ricardo) | [GitHub](https://github.com/Elisa-delaVega-Ricardo)
 
