@@ -1,0 +1,10 @@
+indicator,label,prevalence,se,ci_lower,ci_upper
+felt_sad_hopeless,Felt sad or hopeless (2+ weeks),58.9,0.9,57.3,60.6
+considered_suicide,Seriously considered suicide,29,0.9,27.3,30.8
+attempted_suicide,Attempted suicide,10.8,0.7,9.4,12.2
+bullied_at_school,Bullied at school,17.4,0.7,16.1,18.7
+electronically_bullied,Electronically bullied,24,0.8,22.4,25.6
+missed_school_safety,Missed school (safety concerns),16.1,0.8,14.6,17.6
+current_alcohol,Current alcohol use,26.9,0.8,25.2,28.5
+current_marijuana,Current marijuana use,15.1,0.7,13.8,16.5
+current_vaping,Current e-cigarette/vaping use,15.8,0.8,14.2,17.4

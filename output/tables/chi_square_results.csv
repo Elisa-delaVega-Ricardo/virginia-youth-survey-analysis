@@ -1,0 +1,5 @@
+test,chi_sq,df,p_value,cramers_v,significance
+Sadness <c3><97> Sex,131.755,1,0,0.203,Yes
+Bullying <c3><97> Race,1.483,4,0.829642,0.022,No
+Alcohol <c3><97> Grade,26.96,3,6e-6,0.092,Yes
+Connectedness <c3><97> Sadness,0.107,1,0.743045,0.006,No

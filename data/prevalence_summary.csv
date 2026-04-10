@@ -1,0 +1,541 @@
+survey_year,demographic_category,demographic_group,n,indicator,prevalence_pct
+2015,Overall,All Students,3200,felt_sad_hopeless,47
+2015,Overall,All Students,3200,considered_suicide,21.8
+2015,Overall,All Students,3200,attempted_suicide,11.1
+2015,Overall,All Students,3200,bullied_at_school,20.9
+2015,Overall,All Students,3200,electronically_bullied,20.6
+2015,Overall,All Students,3200,missed_school_safety,10.8
+2015,Overall,All Students,3200,current_alcohol,32.6
+2015,Overall,All Students,3200,current_marijuana,18.6
+2015,Overall,All Students,3200,current_vaping,11.2
+2017,Overall,All Students,3200,felt_sad_hopeless,49.1
+2017,Overall,All Students,3200,considered_suicide,23.6
+2017,Overall,All Students,3200,attempted_suicide,10.7
+2017,Overall,All Students,3200,bullied_at_school,21.1
+2017,Overall,All Students,3200,electronically_bullied,19.8
+2017,Overall,All Students,3200,missed_school_safety,11.4
+2017,Overall,All Students,3200,current_alcohol,31.5
+2017,Overall,All Students,3200,current_marijuana,17.2
+2017,Overall,All Students,3200,current_vaping,10.9
+2019,Overall,All Students,3200,felt_sad_hopeless,54.2
+2019,Overall,All Students,3200,considered_suicide,25.5
+2019,Overall,All Students,3200,attempted_suicide,10.5
+2019,Overall,All Students,3200,bullied_at_school,20.2
+2019,Overall,All Students,3200,electronically_bullied,21.3
+2019,Overall,All Students,3200,missed_school_safety,12
+2019,Overall,All Students,3200,current_alcohol,29.2
+2019,Overall,All Students,3200,current_marijuana,17.2
+2019,Overall,All Students,3200,current_vaping,19.6
+2021,Overall,All Students,3200,felt_sad_hopeless,65.3
+2021,Overall,All Students,3200,considered_suicide,30.9
+2021,Overall,All Students,3200,attempted_suicide,13.8
+2021,Overall,All Students,3200,bullied_at_school,18.7
+2021,Overall,All Students,3200,electronically_bullied,23.5
+2021,Overall,All Students,3200,missed_school_safety,16.7
+2021,Overall,All Students,3200,current_alcohol,28.1
+2021,Overall,All Students,3200,current_marijuana,17.8
+2021,Overall,All Students,3200,current_vaping,16.4
+2023,Overall,All Students,3200,felt_sad_hopeless,58.9
+2023,Overall,All Students,3200,considered_suicide,28.7
+2023,Overall,All Students,3200,attempted_suicide,10.4
+2023,Overall,All Students,3200,bullied_at_school,17.5
+2023,Overall,All Students,3200,electronically_bullied,23.8
+2023,Overall,All Students,3200,missed_school_safety,15.8
+2023,Overall,All Students,3200,current_alcohol,26.6
+2023,Overall,All Students,3200,current_marijuana,15.2
+2023,Overall,All Students,3200,current_vaping,15.8
+2015,Sex,Female,1595,felt_sad_hopeless,57.6
+2015,Sex,Female,1595,considered_suicide,26.4
+2015,Sex,Female,1595,attempted_suicide,13.1
+2015,Sex,Female,1595,bullied_at_school,23.6
+2015,Sex,Female,1595,electronically_bullied,25
+2015,Sex,Female,1595,missed_school_safety,11.2
+2015,Sex,Female,1595,current_alcohol,33.5
+2015,Sex,Female,1595,current_marijuana,20.5
+2015,Sex,Female,1595,current_vaping,10.8
+2015,Sex,Male,1605,felt_sad_hopeless,36.5
+2015,Sex,Male,1605,considered_suicide,17.3
+2015,Sex,Male,1605,attempted_suicide,9
+2015,Sex,Male,1605,bullied_at_school,18.1
+2015,Sex,Male,1605,electronically_bullied,16.3
+2015,Sex,Male,1605,missed_school_safety,10.5
+2015,Sex,Male,1605,current_alcohol,31.6
+2015,Sex,Male,1605,current_marijuana,16.8
+2015,Sex,Male,1605,current_vaping,11.5
+2017,Sex,Female,1609,felt_sad_hopeless,57.6
+2017,Sex,Female,1609,considered_suicide,29.9
+2017,Sex,Female,1609,attempted_suicide,13.6
+2017,Sex,Female,1609,bullied_at_school,24.8
+2017,Sex,Female,1609,electronically_bullied,22.8
+2017,Sex,Female,1609,missed_school_safety,11.1
+2017,Sex,Female,1609,current_alcohol,31.9
+2017,Sex,Female,1609,current_marijuana,17
+2017,Sex,Female,1609,current_vaping,9.7
+2017,Sex,Male,1591,felt_sad_hopeless,40.6
+2017,Sex,Male,1591,considered_suicide,17.2
+2017,Sex,Male,1591,attempted_suicide,7.7
+2017,Sex,Male,1591,bullied_at_school,17.3
+2017,Sex,Male,1591,electronically_bullied,16.8
+2017,Sex,Male,1591,missed_school_safety,11.8
+2017,Sex,Male,1591,current_alcohol,31.1
+2017,Sex,Male,1591,current_marijuana,17.3
+2017,Sex,Male,1591,current_vaping,12.2
+2019,Sex,Female,1592,felt_sad_hopeless,62.9
+2019,Sex,Female,1592,considered_suicide,30.4
+2019,Sex,Female,1592,attempted_suicide,12.1
+2019,Sex,Female,1592,bullied_at_school,22.8
+2019,Sex,Female,1592,electronically_bullied,26.1
+2019,Sex,Female,1592,missed_school_safety,10.9
+2019,Sex,Female,1592,current_alcohol,30.7
+2019,Sex,Female,1592,current_marijuana,17.5
+2019,Sex,Female,1592,current_vaping,18.9
+2019,Sex,Male,1608,felt_sad_hopeless,45.7
+2019,Sex,Male,1608,considered_suicide,20.6
+2019,Sex,Male,1608,attempted_suicide,9
+2019,Sex,Male,1608,bullied_at_school,17.7
+2019,Sex,Male,1608,electronically_bullied,16.7
+2019,Sex,Male,1608,missed_school_safety,13.1
+2019,Sex,Male,1608,current_alcohol,27.9
+2019,Sex,Male,1608,current_marijuana,16.9
+2019,Sex,Male,1608,current_vaping,20.3
+2021,Sex,Female,1626,felt_sad_hopeless,74.5
+2021,Sex,Female,1626,considered_suicide,35.9
+2021,Sex,Female,1626,attempted_suicide,17
+2021,Sex,Female,1626,bullied_at_school,21.6
+2021,Sex,Female,1626,electronically_bullied,28.8
+2021,Sex,Female,1626,missed_school_safety,15.4
+2021,Sex,Female,1626,current_alcohol,27.9
+2021,Sex,Female,1626,current_marijuana,18.3
+2021,Sex,Female,1626,current_vaping,16.1
+2021,Sex,Male,1574,felt_sad_hopeless,55.7
+2021,Sex,Male,1574,considered_suicide,25.7
+2021,Sex,Male,1574,attempted_suicide,10.6
+2021,Sex,Male,1574,bullied_at_school,15.7
+2021,Sex,Male,1574,electronically_bullied,18
+2021,Sex,Male,1574,missed_school_safety,18
+2021,Sex,Male,1574,current_alcohol,28.2
+2021,Sex,Male,1574,current_marijuana,17.3
+2021,Sex,Male,1574,current_vaping,16.8
+2023,Sex,Female,1542,felt_sad_hopeless,69.3
+2023,Sex,Female,1542,considered_suicide,36.8
+2023,Sex,Female,1542,attempted_suicide,12.2
+2023,Sex,Female,1542,bullied_at_school,21.1
+2023,Sex,Female,1542,electronically_bullied,27.9
+2023,Sex,Female,1542,missed_school_safety,16.1
+2023,Sex,Female,1542,current_alcohol,26.5
+2023,Sex,Female,1542,current_marijuana,15.7
+2023,Sex,Female,1542,current_vaping,15.2
+2023,Sex,Male,1658,felt_sad_hopeless,49.2
+2023,Sex,Male,1658,considered_suicide,21
+2023,Sex,Male,1658,attempted_suicide,8.8
+2023,Sex,Male,1658,bullied_at_school,14.1
+2023,Sex,Male,1658,electronically_bullied,20
+2023,Sex,Male,1658,missed_school_safety,15.5
+2023,Sex,Male,1658,current_alcohol,26.7
+2023,Sex,Male,1658,current_marijuana,14.8
+2023,Sex,Male,1658,current_vaping,16.3
+2015,Race/Ethnicity,Asian,270,felt_sad_hopeless,42.6
+2015,Race/Ethnicity,Asian,270,considered_suicide,18.9
+2015,Race/Ethnicity,Asian,270,attempted_suicide,10.7
+2015,Race/Ethnicity,Asian,270,bullied_at_school,17.8
+2015,Race/Ethnicity,Asian,270,electronically_bullied,23
+2015,Race/Ethnicity,Asian,270,missed_school_safety,6.7
+2015,Race/Ethnicity,Asian,270,current_alcohol,30.4
+2015,Race/Ethnicity,Asian,270,current_marijuana,19.6
+2015,Race/Ethnicity,Asian,270,current_vaping,11.5
+2015,Race/Ethnicity,Black or African American,712,felt_sad_hopeless,50.7
+2015,Race/Ethnicity,Black or African American,712,considered_suicide,22.9
+2015,Race/Ethnicity,Black or African American,712,attempted_suicide,11.4
+2015,Race/Ethnicity,Black or African American,712,bullied_at_school,18.4
+2015,Race/Ethnicity,Black or African American,712,electronically_bullied,20.6
+2015,Race/Ethnicity,Black or African American,712,missed_school_safety,15.7
+2015,Race/Ethnicity,Black or African American,712,current_alcohol,31.2
+2015,Race/Ethnicity,Black or African American,712,current_marijuana,18.8
+2015,Race/Ethnicity,Black or African American,712,current_vaping,13.2
+2015,Race/Ethnicity,Hispanic/Latino,511,felt_sad_hopeless,51.5
+2015,Race/Ethnicity,Hispanic/Latino,511,considered_suicide,20.4
+2015,Race/Ethnicity,Hispanic/Latino,511,attempted_suicide,14.3
+2015,Race/Ethnicity,Hispanic/Latino,511,bullied_at_school,22.1
+2015,Race/Ethnicity,Hispanic/Latino,511,electronically_bullied,21.5
+2015,Race/Ethnicity,Hispanic/Latino,511,missed_school_safety,12.5
+2015,Race/Ethnicity,Hispanic/Latino,511,current_alcohol,34.4
+2015,Race/Ethnicity,Hispanic/Latino,511,current_marijuana,17.8
+2015,Race/Ethnicity,Hispanic/Latino,511,current_vaping,13.7
+2015,Race/Ethnicity,Two or More Races,172,felt_sad_hopeless,47.1
+2015,Race/Ethnicity,Two or More Races,172,considered_suicide,22.1
+2015,Race/Ethnicity,Two or More Races,172,attempted_suicide,10.5
+2015,Race/Ethnicity,Two or More Races,172,bullied_at_school,21.5
+2015,Race/Ethnicity,Two or More Races,172,electronically_bullied,19.8
+2015,Race/Ethnicity,Two or More Races,172,missed_school_safety,7.6
+2015,Race/Ethnicity,Two or More Races,172,current_alcohol,30.8
+2015,Race/Ethnicity,Two or More Races,172,current_marijuana,19.2
+2015,Race/Ethnicity,Two or More Races,172,current_vaping,7.6
+2015,Race/Ethnicity,White,1535,felt_sad_hopeless,44.6
+2015,Race/Ethnicity,White,1535,considered_suicide,22.3
+2015,Race/Ethnicity,White,1535,attempted_suicide,10
+2015,Race/Ethnicity,White,1535,bullied_at_school,22.1
+2015,Race/Ethnicity,White,1535,electronically_bullied,19.9
+2015,Race/Ethnicity,White,1535,missed_school_safety,9.1
+2015,Race/Ethnicity,White,1535,current_alcohol,33.2
+2015,Race/Ethnicity,White,1535,current_marijuana,18.6
+2015,Race/Ethnicity,White,1535,current_vaping,9.8
+2017,Race/Ethnicity,Asian,242,felt_sad_hopeless,47.1
+2017,Race/Ethnicity,Asian,242,considered_suicide,24.8
+2017,Race/Ethnicity,Asian,242,attempted_suicide,10.7
+2017,Race/Ethnicity,Asian,242,bullied_at_school,24.4
+2017,Race/Ethnicity,Asian,242,electronically_bullied,18.2
+2017,Race/Ethnicity,Asian,242,missed_school_safety,8.3
+2017,Race/Ethnicity,Asian,242,current_alcohol,33.1
+2017,Race/Ethnicity,Asian,242,current_marijuana,17.4
+2017,Race/Ethnicity,Asian,242,current_vaping,13.2
+2017,Race/Ethnicity,Black or African American,685,felt_sad_hopeless,49.6
+2017,Race/Ethnicity,Black or African American,685,considered_suicide,23.2
+2017,Race/Ethnicity,Black or African American,685,attempted_suicide,10.9
+2017,Race/Ethnicity,Black or African American,685,bullied_at_school,21.9
+2017,Race/Ethnicity,Black or African American,685,electronically_bullied,22.5
+2017,Race/Ethnicity,Black or African American,685,missed_school_safety,13.4
+2017,Race/Ethnicity,Black or African American,685,current_alcohol,31.2
+2017,Race/Ethnicity,Black or African American,685,current_marijuana,17.7
+2017,Race/Ethnicity,Black or African American,685,current_vaping,10.7
+2017,Race/Ethnicity,Hispanic/Latino,527,felt_sad_hopeless,51.4
+2017,Race/Ethnicity,Hispanic/Latino,527,considered_suicide,25.4
+2017,Race/Ethnicity,Hispanic/Latino,527,attempted_suicide,12
+2017,Race/Ethnicity,Hispanic/Latino,527,bullied_at_school,19.4
+2017,Race/Ethnicity,Hispanic/Latino,527,electronically_bullied,19.9
+2017,Race/Ethnicity,Hispanic/Latino,527,missed_school_safety,13.1
+2017,Race/Ethnicity,Hispanic/Latino,527,current_alcohol,33.4
+2017,Race/Ethnicity,Hispanic/Latino,527,current_marijuana,19.4
+2017,Race/Ethnicity,Hispanic/Latino,527,current_vaping,10.6
+2017,Race/Ethnicity,Two or More Races,193,felt_sad_hopeless,51.3
+2017,Race/Ethnicity,Two or More Races,193,considered_suicide,21.8
+2017,Race/Ethnicity,Two or More Races,193,attempted_suicide,9.3
+2017,Race/Ethnicity,Two or More Races,193,bullied_at_school,16.1
+2017,Race/Ethnicity,Two or More Races,193,electronically_bullied,22.3
+2017,Race/Ethnicity,Two or More Races,193,missed_school_safety,12.4
+2017,Race/Ethnicity,Two or More Races,193,current_alcohol,29
+2017,Race/Ethnicity,Two or More Races,193,current_marijuana,14.5
+2017,Race/Ethnicity,Two or More Races,193,current_vaping,10.4
+2017,Race/Ethnicity,White,1553,felt_sad_hopeless,48.2
+2017,Race/Ethnicity,White,1553,considered_suicide,23.2
+2017,Race/Ethnicity,White,1553,attempted_suicide,10.3
+2017,Race/Ethnicity,White,1553,bullied_at_school,21.4
+2017,Race/Ethnicity,White,1553,electronically_bullied,18.5
+2017,Race/Ethnicity,White,1553,missed_school_safety,10.3
+2017,Race/Ethnicity,White,1553,current_alcohol,31
+2017,Race/Ethnicity,White,1553,current_marijuana,16.5
+2017,Race/Ethnicity,White,1553,current_vaping,10.9
+2019,Race/Ethnicity,Asian,249,felt_sad_hopeless,55.8
+2019,Race/Ethnicity,Asian,249,considered_suicide,21.7
+2019,Race/Ethnicity,Asian,249,attempted_suicide,9.2
+2019,Race/Ethnicity,Asian,249,bullied_at_school,22.9
+2019,Race/Ethnicity,Asian,249,electronically_bullied,20.5
+2019,Race/Ethnicity,Asian,249,missed_school_safety,7.6
+2019,Race/Ethnicity,Asian,249,current_alcohol,20.5
+2019,Race/Ethnicity,Asian,249,current_marijuana,19.3
+2019,Race/Ethnicity,Asian,249,current_vaping,22.1
+2019,Race/Ethnicity,Black or African American,700,felt_sad_hopeless,58
+2019,Race/Ethnicity,Black or African American,700,considered_suicide,27.3
+2019,Race/Ethnicity,Black or African American,700,attempted_suicide,12.7
+2019,Race/Ethnicity,Black or African American,700,bullied_at_school,17.4
+2019,Race/Ethnicity,Black or African American,700,electronically_bullied,20.9
+2019,Race/Ethnicity,Black or African American,700,missed_school_safety,15.6
+2019,Race/Ethnicity,Black or African American,700,current_alcohol,32
+2019,Race/Ethnicity,Black or African American,700,current_marijuana,16.3
+2019,Race/Ethnicity,Black or African American,700,current_vaping,19.9
+2019,Race/Ethnicity,Hispanic/Latino,525,felt_sad_hopeless,53.3
+2019,Race/Ethnicity,Hispanic/Latino,525,considered_suicide,25.7
+2019,Race/Ethnicity,Hispanic/Latino,525,attempted_suicide,11.4
+2019,Race/Ethnicity,Hispanic/Latino,525,bullied_at_school,19.4
+2019,Race/Ethnicity,Hispanic/Latino,525,electronically_bullied,22.9
+2019,Race/Ethnicity,Hispanic/Latino,525,missed_school_safety,12.4
+2019,Race/Ethnicity,Hispanic/Latino,525,current_alcohol,29.3
+2019,Race/Ethnicity,Hispanic/Latino,525,current_marijuana,16.6
+2019,Race/Ethnicity,Hispanic/Latino,525,current_vaping,19.4
+2019,Race/Ethnicity,Two or More Races,184,felt_sad_hopeless,55.4
+2019,Race/Ethnicity,Two or More Races,184,considered_suicide,27.2
+2019,Race/Ethnicity,Two or More Races,184,attempted_suicide,8.7
+2019,Race/Ethnicity,Two or More Races,184,bullied_at_school,25.5
+2019,Race/Ethnicity,Two or More Races,184,electronically_bullied,20.7
+2019,Race/Ethnicity,Two or More Races,184,missed_school_safety,13.6
+2019,Race/Ethnicity,Two or More Races,184,current_alcohol,32.6
+2019,Race/Ethnicity,Two or More Races,184,current_marijuana,15.8
+2019,Race/Ethnicity,Two or More Races,184,current_vaping,21.7
+2019,Race/Ethnicity,White,1542,felt_sad_hopeless,52.5
+2019,Race/Ethnicity,White,1542,considered_suicide,25
+2019,Race/Ethnicity,White,1542,attempted_suicide,9.6
+2019,Race/Ethnicity,White,1542,bullied_at_school,20.7
+2019,Race/Ethnicity,White,1542,electronically_bullied,21.3
+2019,Race/Ethnicity,White,1542,missed_school_safety,10.8
+2019,Race/Ethnicity,White,1542,current_alcohol,29
+2019,Race/Ethnicity,White,1542,current_marijuana,17.6
+2019,Race/Ethnicity,White,1542,current_vaping,18.9
+2021,Race/Ethnicity,Asian,255,felt_sad_hopeless,67.1
+2021,Race/Ethnicity,Asian,255,considered_suicide,36.9
+2021,Race/Ethnicity,Asian,255,attempted_suicide,12.2
+2021,Race/Ethnicity,Asian,255,bullied_at_school,17.6
+2021,Race/Ethnicity,Asian,255,electronically_bullied,27.5
+2021,Race/Ethnicity,Asian,255,missed_school_safety,15.3
+2021,Race/Ethnicity,Asian,255,current_alcohol,28.6
+2021,Race/Ethnicity,Asian,255,current_marijuana,18.8
+2021,Race/Ethnicity,Asian,255,current_vaping,17.3
+2021,Race/Ethnicity,Black or African American,687,felt_sad_hopeless,68.9
+2021,Race/Ethnicity,Black or African American,687,considered_suicide,30.6
+2021,Race/Ethnicity,Black or African American,687,attempted_suicide,15.6
+2021,Race/Ethnicity,Black or African American,687,bullied_at_school,17.8
+2021,Race/Ethnicity,Black or African American,687,electronically_bullied,22.3
+2021,Race/Ethnicity,Black or African American,687,missed_school_safety,17.9
+2021,Race/Ethnicity,Black or African American,687,current_alcohol,26.5
+2021,Race/Ethnicity,Black or African American,687,current_marijuana,16.4
+2021,Race/Ethnicity,Black or African American,687,current_vaping,14.8
+2021,Race/Ethnicity,Hispanic/Latino,519,felt_sad_hopeless,66.1
+2021,Race/Ethnicity,Hispanic/Latino,519,considered_suicide,31.4
+2021,Race/Ethnicity,Hispanic/Latino,519,attempted_suicide,12.9
+2021,Race/Ethnicity,Hispanic/Latino,519,bullied_at_school,15.8
+2021,Race/Ethnicity,Hispanic/Latino,519,electronically_bullied,27
+2021,Race/Ethnicity,Hispanic/Latino,519,missed_school_safety,21
+2021,Race/Ethnicity,Hispanic/Latino,519,current_alcohol,28.1
+2021,Race/Ethnicity,Hispanic/Latino,519,current_marijuana,18.9
+2021,Race/Ethnicity,Hispanic/Latino,519,current_vaping,15.8
+2021,Race/Ethnicity,Two or More Races,177,felt_sad_hopeless,58.8
+2021,Race/Ethnicity,Two or More Races,177,considered_suicide,26.6
+2021,Race/Ethnicity,Two or More Races,177,attempted_suicide,14.7
+2021,Race/Ethnicity,Two or More Races,177,bullied_at_school,26
+2021,Race/Ethnicity,Two or More Races,177,electronically_bullied,24.9
+2021,Race/Ethnicity,Two or More Races,177,missed_school_safety,14.1
+2021,Race/Ethnicity,Two or More Races,177,current_alcohol,25.4
+2021,Race/Ethnicity,Two or More Races,177,current_marijuana,20.9
+2021,Race/Ethnicity,Two or More Races,177,current_vaping,18.6
+2021,Race/Ethnicity,White,1562,felt_sad_hopeless,63.9
+2021,Race/Ethnicity,White,1562,considered_suicide,30.4
+2021,Race/Ethnicity,White,1562,attempted_suicide,13.6
+2021,Race/Ethnicity,White,1562,bullied_at_school,19.5
+2021,Race/Ethnicity,White,1562,electronically_bullied,22.1
+2021,Race/Ethnicity,White,1562,missed_school_safety,15.2
+2021,Race/Ethnicity,White,1562,current_alcohol,28.9
+2021,Race/Ethnicity,White,1562,current_marijuana,17.6
+2021,Race/Ethnicity,White,1562,current_vaping,17
+2023,Race/Ethnicity,Asian,252,felt_sad_hopeless,55.6
+2023,Race/Ethnicity,Asian,252,considered_suicide,27.4
+2023,Race/Ethnicity,Asian,252,attempted_suicide,11.9
+2023,Race/Ethnicity,Asian,252,bullied_at_school,18.3
+2023,Race/Ethnicity,Asian,252,electronically_bullied,23
+2023,Race/Ethnicity,Asian,252,missed_school_safety,12.7
+2023,Race/Ethnicity,Asian,252,current_alcohol,27.8
+2023,Race/Ethnicity,Asian,252,current_marijuana,15.9
+2023,Race/Ethnicity,Asian,252,current_vaping,18.7
+2023,Race/Ethnicity,Black or African American,695,felt_sad_hopeless,62.2
+2023,Race/Ethnicity,Black or African American,695,considered_suicide,26.9
+2023,Race/Ethnicity,Black or African American,695,attempted_suicide,11.7
+2023,Race/Ethnicity,Black or African American,695,bullied_at_school,16.3
+2023,Race/Ethnicity,Black or African American,695,electronically_bullied,24.7
+2023,Race/Ethnicity,Black or African American,695,missed_school_safety,18.7
+2023,Race/Ethnicity,Black or African American,695,current_alcohol,24.3
+2023,Race/Ethnicity,Black or African American,695,current_marijuana,17.8
+2023,Race/Ethnicity,Black or African American,695,current_vaping,14.8
+2023,Race/Ethnicity,Hispanic/Latino,531,felt_sad_hopeless,60.3
+2023,Race/Ethnicity,Hispanic/Latino,531,considered_suicide,29.8
+2023,Race/Ethnicity,Hispanic/Latino,531,attempted_suicide,11.7
+2023,Race/Ethnicity,Hispanic/Latino,531,bullied_at_school,17.9
+2023,Race/Ethnicity,Hispanic/Latino,531,electronically_bullied,24.5
+2023,Race/Ethnicity,Hispanic/Latino,531,missed_school_safety,19.6
+2023,Race/Ethnicity,Hispanic/Latino,531,current_alcohol,26.4
+2023,Race/Ethnicity,Hispanic/Latino,531,current_marijuana,15.3
+2023,Race/Ethnicity,Hispanic/Latino,531,current_vaping,14.7
+2023,Race/Ethnicity,Two or More Races,194,felt_sad_hopeless,56.2
+2023,Race/Ethnicity,Two or More Races,194,considered_suicide,31.4
+2023,Race/Ethnicity,Two or More Races,194,attempted_suicide,11.3
+2023,Race/Ethnicity,Two or More Races,194,bullied_at_school,19.6
+2023,Race/Ethnicity,Two or More Races,194,electronically_bullied,24.7
+2023,Race/Ethnicity,Two or More Races,194,missed_school_safety,14.9
+2023,Race/Ethnicity,Two or More Races,194,current_alcohol,27.8
+2023,Race/Ethnicity,Two or More Races,194,current_marijuana,12.9
+2023,Race/Ethnicity,Two or More Races,194,current_vaping,16
+2023,Race/Ethnicity,White,1528,felt_sad_hopeless,57.8
+2023,Race/Ethnicity,White,1528,considered_suicide,28.9
+2023,Race/Ethnicity,White,1528,attempted_suicide,9.1
+2023,Race/Ethnicity,White,1528,bullied_at_school,17.5
+2023,Race/Ethnicity,White,1528,electronically_bullied,23.2
+2023,Race/Ethnicity,White,1528,missed_school_safety,13.8
+2023,Race/Ethnicity,White,1528,current_alcohol,27.4
+2023,Race/Ethnicity,White,1528,current_marijuana,14.2
+2023,Race/Ethnicity,White,1528,current_vaping,16.1
+2015,Grade,10th,815,felt_sad_hopeless,48.8
+2015,Grade,10th,815,considered_suicide,22.2
+2015,Grade,10th,815,attempted_suicide,12.1
+2015,Grade,10th,815,bullied_at_school,19.9
+2015,Grade,10th,815,electronically_bullied,19.9
+2015,Grade,10th,815,missed_school_safety,10.1
+2015,Grade,10th,815,current_alcohol,27.4
+2015,Grade,10th,815,current_marijuana,15.3
+2015,Grade,10th,815,current_vaping,9.9
+2015,Grade,11th,771,felt_sad_hopeless,45.3
+2015,Grade,11th,771,considered_suicide,20.8
+2015,Grade,11th,771,attempted_suicide,9.7
+2015,Grade,11th,771,bullied_at_school,23.3
+2015,Grade,11th,771,electronically_bullied,20.4
+2015,Grade,11th,771,missed_school_safety,10.9
+2015,Grade,11th,771,current_alcohol,35.7
+2015,Grade,11th,771,current_marijuana,20.6
+2015,Grade,11th,771,current_vaping,13
+2015,Grade,12th,708,felt_sad_hopeless,46.3
+2015,Grade,12th,708,considered_suicide,21.2
+2015,Grade,12th,708,attempted_suicide,11.7
+2015,Grade,12th,708,bullied_at_school,18.1
+2015,Grade,12th,708,electronically_bullied,21.5
+2015,Grade,12th,708,missed_school_safety,10.3
+2015,Grade,12th,708,current_alcohol,36.6
+2015,Grade,12th,708,current_marijuana,21.3
+2015,Grade,12th,708,current_vaping,13
+2015,Grade,9th,906,felt_sad_hopeless,47.5
+2015,Grade,9th,906,considered_suicide,23
+2015,Grade,9th,906,attempted_suicide,10.7
+2015,Grade,9th,906,bullied_at_school,21.9
+2015,Grade,9th,906,electronically_bullied,20.8
+2015,Grade,9th,906,missed_school_safety,11.8
+2015,Grade,9th,906,current_alcohol,31.5
+2015,Grade,9th,906,current_marijuana,17.8
+2015,Grade,9th,906,current_vaping,9.4
+2017,Grade,10th,865,felt_sad_hopeless,45.3
+2017,Grade,10th,865,considered_suicide,24
+2017,Grade,10th,865,attempted_suicide,10.8
+2017,Grade,10th,865,bullied_at_school,21.5
+2017,Grade,10th,865,electronically_bullied,19.5
+2017,Grade,10th,865,missed_school_safety,12.6
+2017,Grade,10th,865,current_alcohol,25
+2017,Grade,10th,865,current_marijuana,14.6
+2017,Grade,10th,865,current_vaping,8.6
+2017,Grade,11th,800,felt_sad_hopeless,50.1
+2017,Grade,11th,800,considered_suicide,23.4
+2017,Grade,11th,800,attempted_suicide,7.8
+2017,Grade,11th,800,bullied_at_school,20.5
+2017,Grade,11th,800,electronically_bullied,19.9
+2017,Grade,11th,800,missed_school_safety,10.6
+2017,Grade,11th,800,current_alcohol,38.8
+2017,Grade,11th,800,current_marijuana,20
+2017,Grade,11th,800,current_vaping,14.1
+2017,Grade,12th,627,felt_sad_hopeless,50.6
+2017,Grade,12th,627,considered_suicide,25.2
+2017,Grade,12th,627,attempted_suicide,12.1
+2017,Grade,12th,627,bullied_at_school,19.6
+2017,Grade,12th,627,electronically_bullied,18.7
+2017,Grade,12th,627,missed_school_safety,10.4
+2017,Grade,12th,627,current_alcohol,35.7
+2017,Grade,12th,627,current_marijuana,22
+2017,Grade,12th,627,current_vaping,12.4
+2017,Grade,9th,908,felt_sad_hopeless,50.9
+2017,Grade,9th,908,considered_suicide,22.2
+2017,Grade,9th,908,attempted_suicide,12.2
+2017,Grade,9th,908,bullied_at_school,22.1
+2017,Grade,9th,908,electronically_bullied,20.8
+2017,Grade,9th,908,missed_school_safety,11.7
+2017,Grade,9th,908,current_alcohol,28.4
+2017,Grade,9th,908,current_marijuana,13.8
+2017,Grade,9th,908,current_vaping,9.4
+2019,Grade,10th,810,felt_sad_hopeless,53.6
+2019,Grade,10th,810,considered_suicide,23.7
+2019,Grade,10th,810,attempted_suicide,11.5
+2019,Grade,10th,810,bullied_at_school,21
+2019,Grade,10th,810,electronically_bullied,22
+2019,Grade,10th,810,missed_school_safety,13.2
+2019,Grade,10th,810,current_alcohol,25.2
+2019,Grade,10th,810,current_marijuana,17
+2019,Grade,10th,810,current_vaping,18.1
+2019,Grade,11th,800,felt_sad_hopeless,54.6
+2019,Grade,11th,800,considered_suicide,27.3
+2019,Grade,11th,800,attempted_suicide,10.1
+2019,Grade,11th,800,bullied_at_school,20.2
+2019,Grade,11th,800,electronically_bullied,20.4
+2019,Grade,11th,800,missed_school_safety,12.4
+2019,Grade,11th,800,current_alcohol,32.1
+2019,Grade,11th,800,current_marijuana,18.5
+2019,Grade,11th,800,current_vaping,22.2
+2019,Grade,12th,676,felt_sad_hopeless,54.7
+2019,Grade,12th,676,considered_suicide,25.3
+2019,Grade,12th,676,attempted_suicide,11.4
+2019,Grade,12th,676,bullied_at_school,19.1
+2019,Grade,12th,676,electronically_bullied,21.6
+2019,Grade,12th,676,missed_school_safety,11.8
+2019,Grade,12th,676,current_alcohol,33.9
+2019,Grade,12th,676,current_marijuana,19.8
+2019,Grade,12th,676,current_vaping,20.9
+2019,Grade,9th,914,felt_sad_hopeless,54.2
+2019,Grade,9th,914,considered_suicide,25.6
+2019,Grade,9th,914,attempted_suicide,9.3
+2019,Grade,9th,914,bullied_at_school,20.4
+2019,Grade,9th,914,electronically_bullied,21.4
+2019,Grade,9th,914,missed_school_safety,10.7
+2019,Grade,9th,914,current_alcohol,26.9
+2019,Grade,9th,914,current_marijuana,14.2
+2019,Grade,9th,914,current_vaping,17.6
+2021,Grade,10th,803,felt_sad_hopeless,67.5
+2021,Grade,10th,803,considered_suicide,30.3
+2021,Grade,10th,803,attempted_suicide,13.8
+2021,Grade,10th,803,bullied_at_school,18.3
+2021,Grade,10th,803,electronically_bullied,23.7
+2021,Grade,10th,803,missed_school_safety,17.4
+2021,Grade,10th,803,current_alcohol,26
+2021,Grade,10th,803,current_marijuana,15.7
+2021,Grade,10th,803,current_vaping,14.3
+2021,Grade,11th,774,felt_sad_hopeless,63.7
+2021,Grade,11th,774,considered_suicide,31.3
+2021,Grade,11th,774,attempted_suicide,14.2
+2021,Grade,11th,774,bullied_at_school,18.5
+2021,Grade,11th,774,electronically_bullied,25.1
+2021,Grade,11th,774,missed_school_safety,15.5
+2021,Grade,11th,774,current_alcohol,30.2
+2021,Grade,11th,774,current_marijuana,21.6
+2021,Grade,11th,774,current_vaping,18.9
+2021,Grade,12th,705,felt_sad_hopeless,65.7
+2021,Grade,12th,705,considered_suicide,32.1
+2021,Grade,12th,705,attempted_suicide,14.6
+2021,Grade,12th,705,bullied_at_school,21.3
+2021,Grade,12th,705,electronically_bullied,22.7
+2021,Grade,12th,705,missed_school_safety,17.7
+2021,Grade,12th,705,current_alcohol,30.9
+2021,Grade,12th,705,current_marijuana,20.7
+2021,Grade,12th,705,current_vaping,18.6
+2021,Grade,9th,918,felt_sad_hopeless,64.4
+2021,Grade,9th,918,considered_suicide,30.3
+2021,Grade,9th,918,attempted_suicide,13
+2021,Grade,9th,918,bullied_at_school,17.3
+2021,Grade,9th,918,electronically_bullied,22.7
+2021,Grade,9th,918,missed_school_safety,16.2
+2021,Grade,9th,918,current_alcohol,25.8
+2021,Grade,9th,918,current_marijuana,14.4
+2021,Grade,9th,918,current_vaping,14.6
+2023,Grade,10th,774,felt_sad_hopeless,57.9
+2023,Grade,10th,774,considered_suicide,30.2
+2023,Grade,10th,774,attempted_suicide,11
+2023,Grade,10th,774,bullied_at_school,16.8
+2023,Grade,10th,774,electronically_bullied,23.9
+2023,Grade,10th,774,missed_school_safety,14.5
+2023,Grade,10th,774,current_alcohol,21.7
+2023,Grade,10th,774,current_marijuana,11.8
+2023,Grade,10th,774,current_vaping,12.8
+2023,Grade,11th,795,felt_sad_hopeless,59.1
+2023,Grade,11th,795,considered_suicide,28.6
+2023,Grade,11th,795,attempted_suicide,11.4
+2023,Grade,11th,795,bullied_at_school,17.5
+2023,Grade,11th,795,electronically_bullied,23.1
+2023,Grade,11th,795,missed_school_safety,17.4
+2023,Grade,11th,795,current_alcohol,29.8
+2023,Grade,11th,795,current_marijuana,17.6
+2023,Grade,11th,795,current_vaping,19.1
+2023,Grade,12th,713,felt_sad_hopeless,61.9
+2023,Grade,12th,713,considered_suicide,26.9
+2023,Grade,12th,713,attempted_suicide,10.1
+2023,Grade,12th,713,bullied_at_school,19.8
+2023,Grade,12th,713,electronically_bullied,22.3
+2023,Grade,12th,713,missed_school_safety,14.3
+2023,Grade,12th,713,current_alcohol,31.8
+2023,Grade,12th,713,current_marijuana,18.7
+2023,Grade,12th,713,current_vaping,16.1
+2023,Grade,9th,918,felt_sad_hopeless,57.2
+2023,Grade,9th,918,considered_suicide,28.8
+2023,Grade,9th,918,attempted_suicide,9.4
+2023,Grade,9th,918,bullied_at_school,16.2
+2023,Grade,9th,918,electronically_bullied,25.5
+2023,Grade,9th,918,missed_school_safety,16.8
+2023,Grade,9th,918,current_alcohol,24
+2023,Grade,9th,918,current_marijuana,13.4
+2023,Grade,9th,918,current_vaping,15.1

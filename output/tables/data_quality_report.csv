@@ -1,0 +1,11 @@
+check,result,status
+Total respondents,"16,000",INFO
+Survey years present,"2015, 2017, 2019, 2021, 2023",INFO
+Missing values (binary indicators),0,PASS
+Missing values (Likert items),0,PASS
+Sex categories,"Female, Male",INFO
+Race/ethnicity categories,"Asian, Black or African American, Hispanic/Latino, Two or More Races, White",INFO
+Grade levels,"10th, 11th, 12th, 9th",INFO
+Weight range,0.500 <e2><80><93> 2.500,INFO
+Unique strata,15,INFO
+Unique PSUs,75,INFO
